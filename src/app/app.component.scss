@@ -40,7 +40,7 @@
 
 .flex-column-wrap {
   display: flex;
-  flex-direction: column;
+  flex-flow: column wrap;
 }
 
 .place-center {
